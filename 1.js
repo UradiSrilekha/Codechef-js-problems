@@ -1,0 +1,9 @@
+// Complete the function
+function runLoop(n) {
+var a=0;
+while(a<n)
+{
+    console.log(a);
+    a+=1;
+}
+}
